@@ -54,13 +54,13 @@ This project follows a strict pipeline. All derived files are produced by execut
 
 ## Results Highlights
 ### ROC Curves for Top Models
-![ROC Curves](reports/figures/roc_curves_top8.png)
+![ROC Curves](figures/roc_curves_top8.png)
 
 ### Precision–Recall Curves for Top Models
-![Precision–Recall Curves](reports/figures/pr_curves_top8.png)
+![Precision–Recall Curves](figures/pr_curves_top8.png)
 
 ### Best ROC AUC by Binning Strategy and Model Type
-![Best AUC by Strategy](reports/figures/best_auc_by_strategy.png)
+![Best AUC by Strategy](figures/best_auc_by_strategy.png)
 
 ---
 
